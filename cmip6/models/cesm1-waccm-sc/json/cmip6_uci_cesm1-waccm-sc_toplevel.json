@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "uci", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "cesm1-waccm-sc", 
+    "topic": "toplevel", 
+    "content": {}
+}
